@@ -1,0 +1,11 @@
+.courses.beginner{
+    background: green;
+}
+
+.courses.intermediate{
+    background: yellow;
+}
+
+.courses.advanced{
+    background: red;
+}
